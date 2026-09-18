@@ -48,6 +48,31 @@ def get_book_titles():
         return []
 
 
+def get_book_graph(title):
+    """Return the selected book and its direct graph connections."""
+    if driver is None:
+        print("Neo4j connection is not available.")
+        return []
+
+    query = """
+    MATCH (book:Book {title: $title})
+    MATCH (book)-[relationship:WRITTEN_BY|HAS_GENRE|HAS_TOPIC]->(connected)
+    RETURN book.title AS book_title,
+           labels(connected)[0] AS node_type,
+           connected.name AS node_name,
+           type(relationship) AS relationship
+    ORDER BY node_type, node_name
+    """
+
+    try:
+        with driver.session(database=database) as session:
+            result = session.run(query, title=title)
+            return [record.data() for record in result]
+    except Exception as error:
+        print(f"Could not load the knowledge graph: {error}")
+        return []
+
+
 def get_recommendations(title):
     """Return up to five books related to the selected book title."""
     if driver is None:
