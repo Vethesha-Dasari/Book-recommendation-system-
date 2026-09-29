@@ -1,0 +1,489 @@
+{
+  "Harry Potter and the Philosopher's Stone": {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "year": 1997,
+    "isbn": "0939173344",
+    "description": null,
+    "language": "English",
+    "publisher": "Valley View, Pottermore",
+    "series": null,
+    "pageCount": 302,
+    "coverUrl": "https://covers.openlibrary.org/b/id/15155833-M.jpg",
+    "rating": 4.22,
+    "ratingCount": 1033,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Friendship",
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL82563W"
+  },
+  "The Hobbit": {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "isbn": "9780563528807",
+    "description": null,
+    "language": "English",
+    "publisher": "Ballantine, 1973",
+    "series": null,
+    "pageCount": 310,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14627509-M.jpg",
+    "rating": 4.29,
+    "ratingCount": 500,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Magic",
+      "Mythology",
+      "Quest",
+      "War"
+    ],
+    "workKey": "/works/OL27482W"
+  },
+  "The Lord of the Rings": {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "isbn": "4566023621",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Publishers",
+    "series": null,
+    "pageCount": 1193,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14625765-M.jpg",
+    "rating": 4.45,
+    "ratingCount": 118,
+    "genres": [
+      "Fantasy"
+    ],
+    "topics": [
+      "Quest"
+    ],
+    "workKey": "/works/OL27448W"
+  },
+  "The Chronicles of Narnia": {
+    "title": "The Chronicles of Narnia",
+    "author": "C. S. Lewis",
+    "year": 1970,
+    "isbn": "0007528094",
+    "description": null,
+    "language": "English",
+    "publisher": "Collins",
+    "series": null,
+    "pageCount": 768,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9321656-M.jpg",
+    "rating": 4.2,
+    "ratingCount": 86,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Friendship",
+      "Magic",
+      "Quest"
+    ],
+    "workKey": "/works/OL70988W"
+  },
+  "Percy Jackson and the Lightning Thief": {
+    "title": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "year": 2005,
+    "isbn": "9780141319131",
+    "description": null,
+    "language": "English",
+    "publisher": "NXB Văn học",
+    "series": null,
+    "pageCount": 384,
+    "coverUrl": "https://covers.openlibrary.org/b/id/7239831-M.jpg",
+    "rating": 4.29,
+    "ratingCount": 415,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Friendship",
+      "Magic",
+      "Mythology",
+      "Self Discovery"
+    ],
+    "workKey": "/works/OL492658W"
+  },
+  "The Hunger Games": {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "isbn": "9781407157863",
+    "description": null,
+    "language": "English",
+    "publisher": "Lectorum Publications, Incorporated",
+    "series": null,
+    "pageCount": 397,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12646537-M.jpg",
+    "rating": 4.13,
+    "ratingCount": 558,
+    "genres": [
+      "Adventure",
+      "Dystopian",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Survival",
+      "War"
+    ],
+    "workKey": "/works/OL5735363W"
+  },
+  "The Maze Runner": {
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "year": 2009,
+    "isbn": "9780385737944",
+    "description": null,
+    "language": "English",
+    "publisher": "Chicken House Ltd",
+    "series": null,
+    "pageCount": 375,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10464801-M.jpg",
+    "rating": 4.0,
+    "ratingCount": 160,
+    "genres": [
+      "Dystopian",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Friendship",
+      "Survival"
+    ],
+    "workKey": "/works/OL6027236W"
+  },
+  "Dune": {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "isbn": "9780441013593",
+    "description": null,
+    "language": "English",
+    "publisher": "Dom Wydawniczy REBIS Sp. z o.o.",
+    "series": null,
+    "pageCount": 608,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11481354-M.jpg",
+    "rating": 4.3,
+    "ratingCount": 446,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "War"
+    ],
+    "workKey": "/works/OL893414W"
+  },
+  "1984": {
+    "title": "1984 (adaptation)",
+    "author": "Michael Dean",
+    "year": 2003,
+    "isbn": "0582777313",
+    "description": null,
+    "language": "English",
+    "publisher": "Pearson Education",
+    "series": null,
+    "pageCount": 72,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8745958-M.jpg",
+    "rating": 4.67,
+    "ratingCount": 15,
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Rebellion"
+    ],
+    "workKey": "/works/OL11326416W"
+  },
+  "The Martian": {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "year": 2011,
+    "isbn": "9789045210841",
+    "description": null,
+    "language": "English",
+    "publisher": "DreamLitt",
+    "series": null,
+    "pageCount": 407,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11447888-M.jpg",
+    "rating": 4.4,
+    "ratingCount": 337,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Survival"
+    ],
+    "workKey": "/works/OL17091839W"
+  },
+  "Sherlock Holmes": {
+    "title": "The Adventures of Sherlock Holmes [12 stories]",
+    "author": "Arthur Conan Doyle",
+    "year": 1892,
+    "isbn": "9781719901550",
+    "description": null,
+    "language": "English",
+    "publisher": "Ulan Press",
+    "series": null,
+    "pageCount": 309,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6717853-M.jpg",
+    "rating": 4.16,
+    "ratingCount": 171,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective",
+      "Society"
+    ],
+    "workKey": "/works/OL262421W"
+  },
+  "The Da Vinci Code": {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "year": 2003,
+    "isbn": "8417031235",
+    "description": null,
+    "language": "English",
+    "publisher": "Planeta",
+    "series": null,
+    "pageCount": 489,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9255229-M.jpg",
+    "rating": 3.92,
+    "ratingCount": 193,
+    "genres": [
+      "Adventure",
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL76837W"
+  },
+  "Pride and Prejudice": {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "isbn": "9798706361303",
+    "description": null,
+    "language": "English",
+    "publisher": "IndyPublish.com",
+    "series": null,
+    "pageCount": 351,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14348537-M.jpg",
+    "rating": 4.21,
+    "ratingCount": 407,
+    "genres": [
+      "Classic",
+      "Historical Fiction",
+      "Romance"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Family",
+      "Love"
+    ],
+    "workKey": "/works/OL66554W"
+  },
+  "Jane Eyre": {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "year": 1847,
+    "isbn": "9798509527777",
+    "description": null,
+    "language": "English",
+    "publisher": "Canterbury Classics",
+    "series": null,
+    "pageCount": 480,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8235363-M.jpg",
+    "rating": 4.03,
+    "ratingCount": 183,
+    "genres": [
+      "Classic",
+      "Historical Fiction",
+      "Romance"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Family",
+      "Love"
+    ],
+    "workKey": "/works/OL1095427W"
+  },
+  "Little Women": {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "year": 1848,
+    "isbn": "1537611453",
+    "description": null,
+    "language": "English",
+    "publisher": "the thames publishing",
+    "series": null,
+    "pageCount": 423,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8775559-M.jpg",
+    "rating": 4.05,
+    "ratingCount": 125,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Historical Fiction",
+      "Romance",
+      "Young Adult"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Family",
+      "Friendship"
+    ],
+    "workKey": "/works/OL29983W"
+  },
+  "The Alchemist": {
+    "title": "The Alchemist Graphic Novel",
+    "author": "Paulo Coelho",
+    "year": 2010,
+    "isbn": "9780007423200",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperOne",
+    "series": null,
+    "pageCount": null,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11556106-M.jpg",
+    "rating": 4.0,
+    "ratingCount": 5,
+    "genres": [],
+    "topics": [],
+    "workKey": "/works/OL24793569W"
+  },
+  "The Book Thief": {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "year": 1998,
+    "isbn": "9780385611466",
+    "description": null,
+    "language": "English",
+    "publisher": "Nan hai chu ban she",
+    "series": null,
+    "pageCount": 560,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8153054-M.jpg",
+    "rating": 4.16,
+    "ratingCount": 145,
+    "genres": [
+      "Historical Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Death",
+      "Family",
+      "War"
+    ],
+    "workKey": "/works/OL5819456W"
+  },
+  "The Great Gatsby": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1920,
+    "isbn": "8490628645",
+    "description": null,
+    "language": "English",
+    "publisher": "Ren Kitap",
+    "series": null,
+    "pageCount": 185,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10590366-M.jpg",
+    "rating": 3.99,
+    "ratingCount": 246,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Historical Fiction",
+      "Romance",
+      "Young Adult"
+    ],
+    "topics": [
+      "Friendship",
+      "Love",
+      "War"
+    ],
+    "workKey": "/works/OL468431W"
+  },
+  "To Kill a Mockingbird": {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "isbn": "1473549655",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Publishers",
+    "series": null,
+    "pageCount": 320,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14351077-M.jpg",
+    "rating": 4.13,
+    "ratingCount": 270,
+    "genres": [
+      "Classic"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Death",
+      "Family",
+      "Justice"
+    ],
+    "workKey": "/works/OL3140822W"
+  },
+  "The Fault in Our Stars": {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "year": 2010,
+    "isbn": "1627653627",
+    "description": null,
+    "language": "English",
+    "publisher": "Knopf Doubleday Publishing Group",
+    "series": null,
+    "pageCount": 318,
+    "coverUrl": "https://covers.openlibrary.org/b/id/7418786-M.jpg",
+    "rating": 4.21,
+    "ratingCount": 223,
+    "genres": [
+      "Romance",
+      "Young Adult"
+    ],
+    "topics": [
+      "Death",
+      "Friendship",
+      "Love"
+    ],
+    "workKey": "/works/OL16444438W"
+  }
+}

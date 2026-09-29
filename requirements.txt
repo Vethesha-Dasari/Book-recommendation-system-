@@ -2,3 +2,4 @@ streamlit
 neo4j
 python-dotenv
 streamlit-agraph
+requests

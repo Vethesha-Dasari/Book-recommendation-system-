@@ -1,0 +1,2409 @@
+[
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J. K. Rowling",
+    "year": 1998,
+    "isbn": "0439064872",
+    "description": null,
+    "language": "English",
+    "publisher": "Carlsen Verlag Gmbtl",
+    "series": null,
+    "pageCount": 339,
+    "coverUrl": "https://covers.openlibrary.org/b/id/15158664-M.jpg",
+    "rating": 4.18,
+    "ratingCount": 461,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "topics": [
+      "Family",
+      "Friendship",
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL82537W"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J. K. Rowling",
+    "year": 1999,
+    "isbn": "1439520615",
+    "description": null,
+    "language": "English",
+    "publisher": "Moonhak Soochup Publishing",
+    "series": null,
+    "pageCount": 416,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10580435-M.jpg",
+    "rating": 4.24,
+    "ratingCount": 639,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Family",
+      "Friendship",
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL82536W"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K. Rowling",
+    "year": 2000,
+    "isbn": "8498380154",
+    "description": null,
+    "language": "English",
+    "publisher": "Lectorum Publications",
+    "series": null,
+    "pageCount": 672,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12059372-M.jpg",
+    "rating": 4.24,
+    "ratingCount": 352,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "topics": [
+      "Family",
+      "Friendship",
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL82560W"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J. K. Rowling",
+    "year": 2003,
+    "isbn": "9780807220313",
+    "description": null,
+    "language": "English",
+    "publisher": "BLOOMSBURY PUBLISHING",
+    "series": null,
+    "pageCount": 870,
+    "coverUrl": "https://covers.openlibrary.org/b/id/15158666-M.jpg",
+    "rating": 4.23,
+    "ratingCount": 317,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Family",
+      "Friendship",
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL82548W"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J. K. Rowling",
+    "year": 2005,
+    "isbn": "8478889906",
+    "description": null,
+    "language": "English",
+    "publisher": "Nahdetmisr Publishing",
+    "series": null,
+    "pageCount": 640,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10716273-M.jpg",
+    "rating": 4.36,
+    "ratingCount": 213,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Detective",
+      "Family",
+      "Friendship",
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL82565W"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J. K. Rowling",
+    "year": 2007,
+    "isbn": "9781408869178",
+    "description": null,
+    "language": "English",
+    "publisher": "Makhaon",
+    "series": null,
+    "pageCount": 701,
+    "coverUrl": "https://covers.openlibrary.org/b/id/15158660-M.jpg",
+    "rating": 4.26,
+    "ratingCount": 414,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Young Adult"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Death",
+      "Family",
+      "Friendship",
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL82586W"
+  },
+  {
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "year": 1977,
+    "isbn": "0618391118",
+    "description": null,
+    "language": "English",
+    "publisher": "Ballantine Books",
+    "series": null,
+    "pageCount": 424,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14627042-M.jpg",
+    "rating": 3.95,
+    "ratingCount": 121,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "topics": [
+      "Mythology"
+    ],
+    "workKey": "/works/OL27495W"
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "isbn": "8533613377",
+    "description": null,
+    "language": "English",
+    "publisher": "Zemorah-Bitan",
+    "series": null,
+    "pageCount": 492,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14627060-M.jpg",
+    "rating": 4.34,
+    "ratingCount": 404,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Young Adult"
+    ],
+    "topics": [
+      "War"
+    ],
+    "workKey": "/works/OL27513W"
+  },
+  {
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "isbn": "0345008634",
+    "description": null,
+    "language": "English",
+    "publisher": "Ballantine Books, New York",
+    "series": null,
+    "pageCount": 434,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14627564-M.jpg",
+    "rating": 4.35,
+    "ratingCount": 233,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "topics": [
+      "Magic",
+      "Mythology",
+      "Quest"
+    ],
+    "workKey": "/works/OL27479W"
+  },
+  {
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "year": 1950,
+    "isbn": "054792819X",
+    "description": null,
+    "language": "English",
+    "publisher": "Ballantine Books, New York",
+    "series": null,
+    "pageCount": 495,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14627062-M.jpg",
+    "rating": 4.45,
+    "ratingCount": 107,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "topics": [
+      "Magic",
+      "Quest"
+    ],
+    "workKey": "/works/OL27455W"
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C. S. Lewis",
+    "year": 1950,
+    "isbn": "9780007115617",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Narnia",
+    "series": null,
+    "pageCount": 186,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8441376-M.jpg",
+    "rating": 4.13,
+    "ratingCount": 121,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Fantasy",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Friendship",
+      "Magic"
+    ],
+    "workKey": "/works/OL71037W"
+  },
+  {
+    "title": "Prince Caspian",
+    "author": "C. S. Lewis",
+    "year": 1951,
+    "isbn": "9780061227646",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Publishers",
+    "series": null,
+    "pageCount": 216,
+    "coverUrl": "https://covers.openlibrary.org/b/id/45897-M.jpg",
+    "rating": 3.93,
+    "ratingCount": 98,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "topics": [
+      "Magic",
+      "Quest"
+    ],
+    "workKey": "/works/OL71069W"
+  },
+  {
+    "title": "The Voyage of the Dawn Treader",
+    "author": "C. S. Lewis",
+    "year": 1952,
+    "isbn": "9781589972964",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Publishers",
+    "series": null,
+    "pageCount": 228,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9184719-M.jpg",
+    "rating": 4.1,
+    "ratingCount": 108,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Young Adult"
+    ],
+    "topics": [
+      "Magic"
+    ],
+    "workKey": "/works/OL71132W"
+  },
+  {
+    "title": "The Magician's Nephew",
+    "author": "C. S. Lewis",
+    "year": 1955,
+    "isbn": "0060595019",
+    "description": null,
+    "language": "English",
+    "publisher": "Longmans, Green & Co.",
+    "series": null,
+    "pageCount": 186,
+    "coverUrl": "https://covers.openlibrary.org/b/id/1072931-M.jpg",
+    "rating": 4.02,
+    "ratingCount": 108,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Friendship",
+      "Magic"
+    ],
+    "workKey": "/works/OL71042W"
+  },
+  {
+    "title": "The Sea of Monsters",
+    "author": "Rick Riordan",
+    "year": 2005,
+    "isbn": "0606265007",
+    "description": null,
+    "language": "English",
+    "publisher": "Miramax Books/Hyperion Paperbacks for Children",
+    "series": null,
+    "pageCount": 282,
+    "coverUrl": "https://covers.openlibrary.org/b/id/108909-M.jpg",
+    "rating": 4.46,
+    "ratingCount": 188,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Young Adult"
+    ],
+    "topics": [
+      "Friendship",
+      "Mythology"
+    ],
+    "workKey": "/works/OL492646W"
+  },
+  {
+    "title": "The Titan's Curse",
+    "author": "Rick Riordan",
+    "year": 2007,
+    "isbn": "0545057043",
+    "description": null,
+    "language": "English",
+    "publisher": "disney",
+    "series": null,
+    "pageCount": 320,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14601475-M.jpg",
+    "rating": 4.47,
+    "ratingCount": 155,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "topics": [
+      "Detective",
+      "Mythology"
+    ],
+    "workKey": "/works/OL492647W"
+  },
+  {
+    "title": "The Battle of the Labyrinth",
+    "author": "Rick Riordan",
+    "year": 2005,
+    "isbn": "9781484458945",
+    "description": null,
+    "language": "English",
+    "publisher": "rick riordan",
+    "series": null,
+    "pageCount": 367,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6274739-M.jpg",
+    "rating": 4.42,
+    "ratingCount": 139,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Young Adult"
+    ],
+    "topics": [
+      "Friendship",
+      "Mythology"
+    ],
+    "workKey": "/works/OL492640W"
+  },
+  {
+    "title": "The Last Olympian",
+    "author": "Rick Riordan",
+    "year": 2008,
+    "isbn": "8418173661",
+    "description": null,
+    "language": "English",
+    "publisher": "me",
+    "series": null,
+    "pageCount": 381,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6624107-M.jpg",
+    "rating": 4.41,
+    "ratingCount": 158,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Young Adult"
+    ],
+    "topics": [
+      "Friendship",
+      "Mythology"
+    ],
+    "workKey": "/works/OL15270622W"
+  },
+  {
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "year": 2009,
+    "isbn": "9780545586177",
+    "description": null,
+    "language": "English",
+    "publisher": "Lectorum Publications, Incorporated",
+    "series": null,
+    "pageCount": 400,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12646539-M.jpg",
+    "rating": 4.12,
+    "ratingCount": 297,
+    "genres": [
+      "Adventure",
+      "Dystopian",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Survival"
+    ],
+    "workKey": "/works/OL5735360W"
+  },
+  {
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "year": 2010,
+    "isbn": "9788427248489",
+    "description": null,
+    "language": "English",
+    "publisher": "Lectorum Publications, Incorporated",
+    "series": null,
+    "pageCount": 424,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12646459-M.jpg",
+    "rating": 3.79,
+    "ratingCount": 275,
+    "genres": [
+      "Adventure",
+      "Dystopian",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Survival"
+    ],
+    "workKey": "/works/OL14908941W"
+  },
+  {
+    "title": "The Scorch Trials",
+    "author": "James Dashner",
+    "year": 2010,
+    "isbn": "9780553538229",
+    "description": null,
+    "language": "English",
+    "publisher": "Delacorte Press",
+    "series": null,
+    "pageCount": 384,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6636110-M.jpg",
+    "rating": 3.71,
+    "ratingCount": 59,
+    "genres": [
+      "Dystopian",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Survival"
+    ],
+    "workKey": "/works/OL15414803W"
+  },
+  {
+    "title": "The Death Cure",
+    "author": "James Dashner",
+    "year": 2011,
+    "isbn": "1615875875",
+    "description": null,
+    "language": "English",
+    "publisher": "Chicken House, The",
+    "series": null,
+    "pageCount": 358,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6935538-M.jpg",
+    "rating": 3.6,
+    "ratingCount": 40,
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Survival"
+    ],
+    "workKey": "/works/OL16099103W"
+  },
+  {
+    "title": "The Kill Order",
+    "author": "James Dashner",
+    "year": 2012,
+    "isbn": "9780307979117",
+    "description": null,
+    "language": "English",
+    "publisher": "Delacort Press",
+    "series": null,
+    "pageCount": 384,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8157057-M.jpg",
+    "rating": 3.25,
+    "ratingCount": 12,
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Survival"
+    ],
+    "workKey": "/works/OL16671713W"
+  },
+  {
+    "title": "Dune Messiah",
+    "author": "Frank Herbert",
+    "year": 1969,
+    "isbn": "8418037679",
+    "description": null,
+    "language": "English",
+    "publisher": "Orion Publishing Group, Limited",
+    "series": null,
+    "pageCount": 279,
+    "coverUrl": "https://covers.openlibrary.org/b/id/980253-M.jpg",
+    "rating": 3.94,
+    "ratingCount": 143,
+    "genres": [
+      "Science Fiction"
+    ],
+    "topics": [],
+    "workKey": "/works/OL893461W"
+  },
+  {
+    "title": "Children of Dune",
+    "author": "Frank Herbert",
+    "year": 1976,
+    "isbn": "1427202915",
+    "description": null,
+    "language": "English",
+    "publisher": "Berkley",
+    "series": null,
+    "pageCount": 504,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6976407-M.jpg",
+    "rating": 4.0,
+    "ratingCount": 51,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [],
+    "workKey": "/works/OL893516W"
+  },
+  {
+    "title": "God Emperor of Dune",
+    "author": "Frank Herbert",
+    "year": 1981,
+    "isbn": "2724215907",
+    "description": null,
+    "language": "English",
+    "publisher": "New English Library",
+    "series": null,
+    "pageCount": 475,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6711531-M.jpg",
+    "rating": 3.91,
+    "ratingCount": 78,
+    "genres": [
+      "Science Fiction"
+    ],
+    "topics": [],
+    "workKey": "/works/OL893515W"
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "year": 1945,
+    "isbn": "9781722837273",
+    "description": null,
+    "language": "English",
+    "publisher": "Editora Globo",
+    "series": null,
+    "pageCount": 128,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11261770-M.jpg",
+    "rating": 4.17,
+    "ratingCount": 593,
+    "genres": [
+      "Classic",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Rebellion"
+    ],
+    "workKey": "/works/OL1168007W"
+  },
+  {
+    "title": "Homage to Catalonia",
+    "author": "George Orwell",
+    "year": 1938,
+    "isbn": "9798666194959",
+    "description": null,
+    "language": "English",
+    "publisher": "Ariel",
+    "series": null,
+    "pageCount": 246,
+    "coverUrl": "https://covers.openlibrary.org/b/id/7282177-M.jpg",
+    "rating": 4.21,
+    "ratingCount": 28,
+    "genres": [],
+    "topics": [
+      "Society",
+      "War"
+    ],
+    "workKey": "/works/OL1168169W"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "year": 2021,
+    "isbn": "9781529157468",
+    "description": null,
+    "language": "English",
+    "publisher": "B de Bolsillo",
+    "series": null,
+    "pageCount": 496,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11200092-M.jpg",
+    "rating": 4.51,
+    "ratingCount": 180,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Space",
+      "Survival"
+    ],
+    "workKey": "/works/OL21745884W"
+  },
+  {
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "year": 2017,
+    "isbn": "8580419190",
+    "description": null,
+    "language": "English",
+    "publisher": "Newton Compton Editori",
+    "series": null,
+    "pageCount": 322,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8235551-M.jpg",
+    "rating": 3.68,
+    "ratingCount": 130,
+    "genres": [
+      "Adventure",
+      "Science Fiction"
+    ],
+    "topics": [],
+    "workKey": "/works/OL17837968W"
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "year": 1887,
+    "isbn": "1688519998",
+    "description": null,
+    "language": "English",
+    "publisher": "Brand: Grupo Editorial Tomo",
+    "series": null,
+    "pageCount": 162,
+    "coverUrl": "https://covers.openlibrary.org/b/id/13405534-M.jpg",
+    "rating": 3.98,
+    "ratingCount": 121,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective",
+      "War"
+    ],
+    "workKey": "/works/OL262496W"
+  },
+  {
+    "title": "The Sign of Four",
+    "author": "Arthur Conan Doyle",
+    "year": 1889,
+    "isbn": "9798532051270",
+    "description": null,
+    "language": "English",
+    "publisher": "AD Classic",
+    "series": null,
+    "pageCount": 156,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9247987-M.jpg",
+    "rating": 4.24,
+    "ratingCount": 91,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective",
+      "Rebellion"
+    ],
+    "workKey": "/works/OL262438W"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "year": 1900,
+    "isbn": "1444807137",
+    "description": null,
+    "language": "English",
+    "publisher": "Editions Zulma",
+    "series": null,
+    "pageCount": 207,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8063264-M.jpg",
+    "rating": 4.0,
+    "ratingCount": 62,
+    "genres": [
+      "Classic",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective",
+      "Society",
+      "War"
+    ],
+    "workKey": "/works/OL262454W"
+  },
+  {
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "year": 1914,
+    "isbn": "9798492890810",
+    "description": null,
+    "language": "English",
+    "publisher": "AD Classic",
+    "series": null,
+    "pageCount": 206,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8350377-M.jpg",
+    "rating": 4.1,
+    "ratingCount": 29,
+    "genres": [
+      "Adventure",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL262505W"
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "year": 2000,
+    "isbn": "9789984350578",
+    "description": null,
+    "language": "English",
+    "publisher": "Li︠u︡ks",
+    "series": null,
+    "pageCount": 575,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11408459-M.jpg",
+    "rating": 3.63,
+    "ratingCount": 266,
+    "genres": [
+      "Adventure",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL76833W"
+  },
+  {
+    "title": "The Lost Symbol",
+    "author": "Dan Brown",
+    "year": 2009,
+    "isbn": "9584261908",
+    "description": null,
+    "language": "English",
+    "publisher": "Dwarsligger®",
+    "series": null,
+    "pageCount": 604,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8373389-M.jpg",
+    "rating": 3.63,
+    "ratingCount": 102,
+    "genres": [
+      "Adventure",
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL14873315W"
+  },
+  {
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "year": 2013,
+    "isbn": "8375088323",
+    "description": null,
+    "language": "English",
+    "publisher": "Dwarsligger®",
+    "series": null,
+    "pageCount": 576,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9322673-M.jpg",
+    "rating": 3.72,
+    "ratingCount": 69,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL16804289W"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "year": 1815,
+    "isbn": "9780395051153",
+    "description": null,
+    "language": "English",
+    "publisher": "Pomona Press",
+    "series": null,
+    "pageCount": 457,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9278312-M.jpg",
+    "rating": 3.97,
+    "ratingCount": 65,
+    "genres": [
+      "Classic",
+      "Historical Fiction",
+      "Romance"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Friendship",
+      "Love"
+    ],
+    "workKey": "/works/OL66513W"
+  },
+  {
+    "title": "Mansfield Park",
+    "author": "Jane Austen",
+    "year": 1814,
+    "isbn": "9798592786044",
+    "description": null,
+    "language": "English",
+    "publisher": "Xist Publishing",
+    "series": null,
+    "pageCount": 443,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14618737-M.jpg",
+    "rating": 3.83,
+    "ratingCount": 6,
+    "genres": [
+      "Classic",
+      "Historical Fiction",
+      "Romance"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Family",
+      "Love"
+    ],
+    "workKey": "/works/OL66530W"
+  },
+  {
+    "title": "Northanger Abbey",
+    "author": "Jane Austen",
+    "year": 1818,
+    "isbn": "9780393978506",
+    "description": null,
+    "language": "English",
+    "publisher": "Hodder & Stoughton General Division",
+    "series": null,
+    "pageCount": 251,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12567961-M.jpg",
+    "rating": 3.87,
+    "ratingCount": 47,
+    "genres": [
+      "Classic",
+      "Historical Fiction",
+      "Romance"
+    ],
+    "topics": [
+      "Friendship",
+      "Love"
+    ],
+    "workKey": "/works/OL66534W"
+  },
+  {
+    "title": "Little men",
+    "author": "Louisa May Alcott",
+    "year": 1885,
+    "isbn": "1075368499",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Publishers",
+    "series": null,
+    "pageCount": 286,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8043576-M.jpg",
+    "rating": 3.84,
+    "ratingCount": 19,
+    "genres": [
+      "Classic",
+      "Historical Fiction"
+    ],
+    "topics": [
+      "Family",
+      "Friendship"
+    ],
+    "workKey": "/works/OL17761452W"
+  },
+  {
+    "title": "Jo's Boys",
+    "author": "Louisa May Alcott",
+    "year": 1886,
+    "isbn": "1548784273",
+    "description": null,
+    "language": "English",
+    "publisher": "Littlehampton Book Services Ltd",
+    "series": null,
+    "pageCount": 328,
+    "coverUrl": "https://covers.openlibrary.org/b/id/13166184-M.jpg",
+    "rating": 3.67,
+    "ratingCount": 12,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Historical Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Family",
+      "Friendship"
+    ],
+    "workKey": "/works/OL26668762W"
+  },
+  {
+    "title": "Veronika decides to die",
+    "author": "Paulo Coelho",
+    "year": 2000,
+    "isbn": "9780007639588",
+    "description": null,
+    "language": "English",
+    "publisher": "Thorsons",
+    "series": null,
+    "pageCount": 191,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10199502-M.jpg",
+    "rating": 3.4,
+    "ratingCount": 5,
+    "genres": [],
+    "topics": [],
+    "workKey": "/works/OL11592992W"
+  },
+  {
+    "title": "Eleven Minutes",
+    "author": "Paulo Coelho",
+    "year": 2003,
+    "isbn": "9780007166039",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Publishers Ltd",
+    "series": null,
+    "pageCount": 304,
+    "coverUrl": "https://covers.openlibrary.org/b/id/31228-M.jpg",
+    "rating": 3.85,
+    "ratingCount": 26,
+    "genres": [
+      "Romance"
+    ],
+    "topics": [
+      "Love"
+    ],
+    "workKey": "/works/OL796601W"
+  },
+  {
+    "title": "I Am the Messenger",
+    "author": "Markus Zusak",
+    "year": 2002,
+    "isbn": "9781909531369",
+    "description": null,
+    "language": "English",
+    "publisher": "Macmillan publishers",
+    "series": null,
+    "pageCount": 384,
+    "coverUrl": "https://covers.openlibrary.org/b/id/4319082-M.jpg",
+    "rating": 4.36,
+    "ratingCount": 11,
+    "genres": [
+      "Mystery",
+      "Young Adult"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL5819463W"
+  },
+  {
+    "title": "Bridge of Clay",
+    "author": "Markus Zusak",
+    "year": 2018,
+    "isbn": "846635011X",
+    "description": null,
+    "language": "English",
+    "publisher": "Alfred A. Knopf",
+    "series": null,
+    "pageCount": 592,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9144699-M.jpg",
+    "rating": 5.0,
+    "ratingCount": 1,
+    "genres": [
+      "Young Adult"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Death",
+      "Family"
+    ],
+    "workKey": "/works/OL19755561W"
+  },
+  {
+    "title": "This Side of Paradise",
+    "author": "F. Scott Fitzgerald",
+    "year": 1920,
+    "isbn": "1692995219",
+    "description": null,
+    "language": "English",
+    "publisher": "ICON Classics",
+    "series": null,
+    "pageCount": 270,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8243609-M.jpg",
+    "rating": 3.83,
+    "ratingCount": 18,
+    "genres": [
+      "Classic",
+      "Historical Fiction",
+      "Romance",
+      "Young Adult"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Love",
+      "War"
+    ],
+    "workKey": "/works/OL468488W"
+  },
+  {
+    "title": "Tender is the Night",
+    "author": "F. Scott Fitzgerald",
+    "year": 1933,
+    "isbn": "0582097169",
+    "description": null,
+    "language": "English",
+    "publisher": "Macmillan",
+    "series": null,
+    "pageCount": 352,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6984433-M.jpg",
+    "rating": 3.85,
+    "ratingCount": 20,
+    "genres": [
+      "Classic",
+      "Historical Fiction",
+      "Romance"
+    ],
+    "topics": [
+      "Family",
+      "Love"
+    ],
+    "workKey": "/works/OL468485W"
+  },
+  {
+    "title": "Go Set A Watchman",
+    "author": "Harper Lee",
+    "year": 2015,
+    "isbn": "9780062409904",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Publishers",
+    "series": null,
+    "pageCount": 304,
+    "coverUrl": "https://covers.openlibrary.org/b/id/7383195-M.jpg",
+    "rating": 3.21,
+    "ratingCount": 19,
+    "genres": [
+      "Historical Fiction"
+    ],
+    "topics": [
+      "Family"
+    ],
+    "workKey": "/works/OL17163917W"
+  },
+  {
+    "title": "Paper Towns",
+    "author": "John Green",
+    "year": 2008,
+    "isbn": "9780525478188",
+    "description": null,
+    "language": "English",
+    "publisher": "Intrínseca",
+    "series": null,
+    "pageCount": 367,
+    "coverUrl": "https://covers.openlibrary.org/b/id/5731773-M.jpg",
+    "rating": 3.84,
+    "ratingCount": 77,
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Young Adult"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Detective",
+      "Friendship"
+    ],
+    "workKey": "/works/OL11822690W"
+  },
+  {
+    "title": "An Abundance of Katherines",
+    "author": "John Green",
+    "year": 2006,
+    "isbn": "2092555715",
+    "description": null,
+    "language": "English",
+    "publisher": "Penguin Young Readers Group",
+    "series": null,
+    "pageCount": 283,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14559681-M.jpg",
+    "rating": 3.81,
+    "ratingCount": 37,
+    "genres": [
+      "Romance",
+      "Young Adult"
+    ],
+    "topics": [
+      "Friendship"
+    ],
+    "workKey": "/works/OL2130549W"
+  },
+  {
+    "title": "Turtles All the Way Down",
+    "author": "John Green",
+    "year": 2017,
+    "isbn": "0525555374",
+    "description": null,
+    "language": "English",
+    "publisher": "Penguin Books, Limited",
+    "series": null,
+    "pageCount": 304,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8283871-M.jpg",
+    "rating": 4.31,
+    "ratingCount": 64,
+    "genres": [
+      "Young Adult"
+    ],
+    "topics": [
+      "Coming of Age",
+      "Friendship"
+    ],
+    "workKey": "/works/OL17842319W"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "isbn": "841825260X",
+    "description": null,
+    "language": "English",
+    "publisher": "Suntup Editions",
+    "series": null,
+    "pageCount": 188,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12993656-M.jpg",
+    "rating": 3.98,
+    "ratingCount": 451,
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Rebellion",
+      "War"
+    ],
+    "workKey": "/works/OL103123W"
+  },
+  {
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "year": 1950,
+    "isbn": "2070500829",
+    "description": null,
+    "language": "English",
+    "publisher": "Jin ri shi jie she",
+    "series": null,
+    "pageCount": 262,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9346537-M.jpg",
+    "rating": 4.11,
+    "ratingCount": 114,
+    "genres": [
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Space"
+    ],
+    "workKey": "/works/OL103134W"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "isbn": "9575450205",
+    "description": null,
+    "language": "English",
+    "publisher": "Neal-schuman publishing",
+    "series": null,
+    "pageCount": 240,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8231823-M.jpg",
+    "rating": 3.97,
+    "ratingCount": 482,
+    "genres": [
+      "Classic",
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Rebellion"
+    ],
+    "workKey": "/works/OL64365W"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "year": 1968,
+    "isbn": "0194216853",
+    "description": null,
+    "language": "English",
+    "publisher": "Voyager",
+    "series": null,
+    "pageCount": 224,
+    "coverUrl": "https://covers.openlibrary.org/b/id/207515-M.jpg",
+    "rating": 4.04,
+    "ratingCount": 161,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Technology"
+    ],
+    "workKey": "/works/OL2172356W"
+  },
+  {
+    "title": "Ubik",
+    "author": "Philip K. Dick",
+    "year": 1969,
+    "isbn": "9788445008232",
+    "description": null,
+    "language": "English",
+    "publisher": "Voyager",
+    "series": null,
+    "pageCount": 224,
+    "coverUrl": "https://covers.openlibrary.org/b/id/5018327-M.jpg",
+    "rating": 3.96,
+    "ratingCount": 78,
+    "genres": [
+      "Science Fiction"
+    ],
+    "topics": [
+      "Death",
+      "Detective"
+    ],
+    "workKey": "/works/OL2172454W"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "year": 1951,
+    "isbn": "0307749711",
+    "description": null,
+    "language": "English",
+    "publisher": "Collins",
+    "series": null,
+    "pageCount": 240,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14612610-M.jpg",
+    "rating": 4.09,
+    "ratingCount": 308,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Technology"
+    ],
+    "workKey": "/works/OL46125W"
+  },
+  {
+    "title": "Foundation and Empire",
+    "author": "Isaac Asimov",
+    "year": 1945,
+    "isbn": "0586013555",
+    "description": null,
+    "language": "English",
+    "publisher": "Doubleday & Company",
+    "series": null,
+    "pageCount": 253,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9300695-M.jpg",
+    "rating": 4.1,
+    "ratingCount": 153,
+    "genres": [
+      "Science Fiction"
+    ],
+    "topics": [
+      "War"
+    ],
+    "workKey": "/works/OL46224W"
+  },
+  {
+    "title": "Second Foundation",
+    "author": "Isaac Asimov",
+    "year": 1953,
+    "isbn": "9780553900361",
+    "description": null,
+    "language": "English",
+    "publisher": "Random House Audio",
+    "series": null,
+    "pageCount": 235,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9261324-M.jpg",
+    "rating": 4.35,
+    "ratingCount": 141,
+    "genres": [
+      "Science Fiction"
+    ],
+    "topics": [],
+    "workKey": "/works/OL46309W"
+  },
+  {
+    "title": "2001 A SPACE ODYSSEY",
+    "author": "Arthur C. Clarke",
+    "year": 1968,
+    "isbn": null,
+    "description": null,
+    "language": "English",
+    "publisher": "New American Library",
+    "series": null,
+    "pageCount": 213,
+    "coverUrl": "https://covers.openlibrary.org/b/id/15170836-M.jpg",
+    "rating": 4.0,
+    "ratingCount": 1,
+    "genres": [],
+    "topics": [],
+    "workKey": "/works/OL43125206W"
+  },
+  {
+    "title": "Rendezvous with Rama",
+    "author": "Arthur C. Clarke",
+    "year": 1973,
+    "isbn": "9780345350565",
+    "description": null,
+    "language": "English",
+    "publisher": "Del Rey",
+    "series": null,
+    "pageCount": 256,
+    "coverUrl": "https://covers.openlibrary.org/b/id/13472608-M.jpg",
+    "rating": 4.16,
+    "ratingCount": 102,
+    "genres": [
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Space",
+      "War"
+    ],
+    "workKey": "/works/OL17417W"
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "year": 1969,
+    "isbn": "9780441478026",
+    "description": null,
+    "language": "English",
+    "publisher": "Raig Verd",
+    "series": null,
+    "pageCount": 304,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10618463-M.jpg",
+    "rating": 4.27,
+    "ratingCount": 56,
+    "genres": [
+      "Classic",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Self Discovery",
+      "Space",
+      "War"
+    ],
+    "workKey": "/works/OL59800W"
+  },
+  {
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "year": 1974,
+    "isbn": "1473228417",
+    "description": null,
+    "language": "English",
+    "publisher": "Cactus",
+    "series": null,
+    "pageCount": 352,
+    "coverUrl": "https://covers.openlibrary.org/b/id/6979680-M.jpg",
+    "rating": 4.49,
+    "ratingCount": 37,
+    "genres": [
+      "Dystopian",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Space",
+      "Technology",
+      "War"
+    ],
+    "workKey": "/works/OL59863W"
+  },
+  {
+    "title": "A Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "year": 1968,
+    "isbn": "9785552898169",
+    "description": null,
+    "language": "English",
+    "publisher": "Perfection Learning Prebound",
+    "series": null,
+    "pageCount": 205,
+    "coverUrl": "https://covers.openlibrary.org/b/id/13617691-M.jpg",
+    "rating": 3.94,
+    "ratingCount": 119,
+    "genres": [
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL59798W"
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "year": 1985,
+    "isbn": "0792733592",
+    "description": null,
+    "language": "English",
+    "publisher": "EDB FICCION",
+    "series": null,
+    "pageCount": 330,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12996033-M.jpg",
+    "rating": 4.35,
+    "ratingCount": 417,
+    "genres": [
+      "Science Fiction"
+    ],
+    "topics": [
+      "Space",
+      "Technology",
+      "War"
+    ],
+    "workKey": "/works/OL49488W"
+  },
+  {
+    "title": "Speaker for the Dead",
+    "author": "Orson Scott Card",
+    "year": 1986,
+    "isbn": "0792738071",
+    "description": null,
+    "language": "English",
+    "publisher": "TOR",
+    "series": null,
+    "pageCount": 415,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9315123-M.jpg",
+    "rating": 4.06,
+    "ratingCount": 109,
+    "genres": [
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Space",
+      "War"
+    ],
+    "workKey": "/works/OL49580W"
+  },
+  {
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "year": 1989,
+    "isbn": "1491514973",
+    "description": null,
+    "language": "English",
+    "publisher": "Wydawnictwo MAG",
+    "series": null,
+    "pageCount": 481,
+    "coverUrl": "https://covers.openlibrary.org/b/id/380332-M.jpg",
+    "rating": 4.17,
+    "ratingCount": 156,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Space",
+      "War"
+    ],
+    "workKey": "/works/OL1963268W"
+  },
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "year": 1992,
+    "isbn": "849620832X",
+    "description": null,
+    "language": "English",
+    "publisher": "Goldmann",
+    "series": null,
+    "pageCount": 460,
+    "coverUrl": "https://covers.openlibrary.org/b/id/392508-M.jpg",
+    "rating": 4.07,
+    "ratingCount": 200,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Mythology",
+      "Space"
+    ],
+    "workKey": "/works/OL38501W"
+  },
+  {
+    "title": "The Time Machine [adaptation]",
+    "author": "Shirley Bogart",
+    "year": 2003,
+    "isbn": "2894952120",
+    "description": null,
+    "language": "English",
+    "publisher": "Editions ABC",
+    "series": null,
+    "pageCount": 241,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14525923-M.jpg",
+    "rating": null,
+    "ratingCount": null,
+    "genres": [],
+    "topics": [],
+    "workKey": "/works/OL34599774W"
+  },
+  {
+    "title": "War of the Worlds",
+    "author": "H. G. Wells",
+    "year": 2019,
+    "isbn": "9781671281370",
+    "description": null,
+    "language": "English",
+    "publisher": "Independently Published",
+    "series": null,
+    "pageCount": 464,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14265131-M.jpg",
+    "rating": null,
+    "ratingCount": null,
+    "genres": [],
+    "topics": [],
+    "workKey": "/works/OL30251972W"
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "year": 1956,
+    "isbn": "3590126108",
+    "description": null,
+    "language": "English",
+    "publisher": "Anagrama",
+    "series": null,
+    "pageCount": 203,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12727001-M.jpg",
+    "rating": 4.17,
+    "ratingCount": 259,
+    "genres": [
+      "Classic",
+      "Fantasy",
+      "Historical Fiction",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Technology",
+      "War"
+    ],
+    "workKey": "/works/OL98459W"
+  },
+  {
+    "title": "Cat's Cradle",
+    "author": "Kurt Vonnegut",
+    "year": 1963,
+    "isbn": "9789756006870",
+    "description": null,
+    "language": "English",
+    "publisher": "April",
+    "series": null,
+    "pageCount": 231,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12709654-M.jpg",
+    "rating": 3.96,
+    "ratingCount": 106,
+    "genres": [
+      "Classic",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "War"
+    ],
+    "workKey": "/works/OL98454W"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": 1985,
+    "isbn": "9781984899668",
+    "description": null,
+    "language": "English",
+    "publisher": "Jonathan Cape",
+    "series": null,
+    "pageCount": 352,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8231851-M.jpg",
+    "rating": 3.97,
+    "ratingCount": 136,
+    "genres": [
+      "Dystopian",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Rebellion",
+      "War"
+    ],
+    "workKey": "/works/OL675783W"
+  },
+  {
+    "title": "Oryx and Crake",
+    "author": "Margaret Atwood",
+    "year": 2002,
+    "isbn": "9780747562597",
+    "description": null,
+    "language": "English",
+    "publisher": "Dogan Kitap",
+    "series": null,
+    "pageCount": 389,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12507658-M.jpg",
+    "rating": 4.17,
+    "ratingCount": 48,
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Friendship"
+    ],
+    "workKey": "/works/OL675722W"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "year": 2006,
+    "isbn": "9781436100793",
+    "description": null,
+    "language": "English",
+    "publisher": "Vintage International",
+    "series": null,
+    "pageCount": 256,
+    "coverUrl": "https://covers.openlibrary.org/b/id/198120-M.jpg",
+    "rating": 3.89,
+    "ratingCount": 176,
+    "genres": [
+      "Adventure",
+      "Dystopian",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Survival"
+    ],
+    "workKey": "/works/OL40873W"
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "year": 2005,
+    "isbn": "0307400999",
+    "description": null,
+    "language": "English",
+    "publisher": "Knopf Doubleday Publishing Group",
+    "series": null,
+    "pageCount": 319,
+    "coverUrl": "https://covers.openlibrary.org/b/id/1047334-M.jpg",
+    "rating": 3.84,
+    "ratingCount": 76,
+    "genres": [
+      "Science Fiction"
+    ],
+    "topics": [
+      "Friendship"
+    ],
+    "workKey": "/works/OL59038W"
+  },
+  {
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "year": 2019,
+    "isbn": "0593318188",
+    "description": null,
+    "language": "English",
+    "publisher": "Yapı Kredi Yayınları",
+    "series": null,
+    "pageCount": 334,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10648686-M.jpg",
+    "rating": 3.79,
+    "ratingCount": 48,
+    "genres": [
+      "Dystopian",
+      "Romance",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Friendship",
+      "Love",
+      "Technology"
+    ],
+    "workKey": "/works/OL20883297W"
+  },
+  {
+    "title": "Dark Matter",
+    "author": "Blake Crouch",
+    "year": 2016,
+    "isbn": "9781447297567",
+    "description": null,
+    "language": "English",
+    "publisher": "Bantam Books",
+    "series": null,
+    "pageCount": 366,
+    "coverUrl": "https://covers.openlibrary.org/b/id/7436634-M.jpg",
+    "rating": 4.0,
+    "ratingCount": 91,
+    "genres": [
+      "Mystery",
+      "Science Fiction"
+    ],
+    "topics": [],
+    "workKey": "/works/OL17358795W"
+  },
+  {
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "year": 2019,
+    "isbn": "1984826018",
+    "description": null,
+    "language": "English",
+    "publisher": "Knopf Doubleday Publishing Group",
+    "series": null,
+    "pageCount": 352,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8748478-M.jpg",
+    "rating": 4.0,
+    "ratingCount": 78,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "topics": [],
+    "workKey": "/works/OL20073906W"
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "year": 1996,
+    "isbn": "9789137139623",
+    "description": null,
+    "language": "English",
+    "publisher": "Unbranded",
+    "series": null,
+    "pageCount": 801,
+    "coverUrl": "https://covers.openlibrary.org/b/id/9269962-M.jpg",
+    "rating": 4.22,
+    "ratingCount": 762,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Family",
+      "Magic",
+      "Society",
+      "War"
+    ],
+    "workKey": "/works/OL257943W"
+  },
+  {
+    "title": "A Clash of Kings",
+    "author": "George R. R. Martin",
+    "year": 1998,
+    "isbn": "9896370486",
+    "description": null,
+    "language": "English",
+    "publisher": "Oscar Mondadori",
+    "series": null,
+    "pageCount": 761,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8231751-M.jpg",
+    "rating": 4.29,
+    "ratingCount": 193,
+    "genres": [
+      "Adventure",
+      "Dystopian",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL257939W"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "year": 2007,
+    "isbn": "0575081406",
+    "description": null,
+    "language": "English",
+    "publisher": "Vintage Espanol",
+    "series": null,
+    "pageCount": 736,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11480483-M.jpg",
+    "rating": 4.34,
+    "ratingCount": 255,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Young Adult"
+    ],
+    "topics": [
+      "Death",
+      "Detective",
+      "Magic",
+      "Quest",
+      "War"
+    ],
+    "workKey": "/works/OL8479867W"
+  },
+  {
+    "title": "The Wise Man’s Fear",
+    "author": "Patrick Rothfuss",
+    "year": 2011,
+    "isbn": "9781423389392",
+    "description": null,
+    "language": "English",
+    "publisher": "Vintage Espanol",
+    "series": null,
+    "pageCount": 1008,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8294024-M.jpg",
+    "rating": 4.36,
+    "ratingCount": 161,
+    "genres": [
+      "Fantasy"
+    ],
+    "topics": [
+      "Magic"
+    ],
+    "workKey": "/works/OL8479869W"
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "year": 2010,
+    "isbn": "9782253191230",
+    "description": null,
+    "language": "English",
+    "publisher": "Tom Doherty Associates",
+    "series": null,
+    "pageCount": 1008,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14658316-M.jpg",
+    "rating": 4.51,
+    "ratingCount": 165,
+    "genres": [
+      "Fantasy"
+    ],
+    "topics": [
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL15358691W"
+  },
+  {
+    "title": "Brandon Sanderson's Fantasy Firsts : (the Way of Kings, Mistborn: the Final Empire, Rithmatist, Alcatraz vs. the Evil Librarians)",
+    "author": "Brandon Sanderson",
+    "year": 2017,
+    "isbn": "9780765399557",
+    "description": null,
+    "language": "English",
+    "publisher": "Doherty Associates, LLC, Tom",
+    "series": null,
+    "pageCount": null,
+    "coverUrl": null,
+    "rating": 4.0,
+    "ratingCount": 1,
+    "genres": [
+      "Fantasy"
+    ],
+    "topics": [],
+    "workKey": "/works/OL25870671W"
+  },
+  {
+    "title": "The Golden Compass Graphic Novel, Volume 2",
+    "author": "Philip Pullman",
+    "year": 2016,
+    "isbn": "9780857534637",
+    "description": null,
+    "language": "English",
+    "publisher": "Random House Children's Books",
+    "series": null,
+    "pageCount": 80,
+    "coverUrl": "https://covers.openlibrary.org/b/id/7896630-M.jpg",
+    "rating": 4.0,
+    "ratingCount": 1,
+    "genres": [
+      "Fantasy"
+    ],
+    "topics": [],
+    "workKey": "/works/OL17615692W"
+  },
+  {
+    "title": "The Subtle Knife",
+    "author": "Philip Pullman",
+    "year": 1997,
+    "isbn": "0439950473",
+    "description": null,
+    "language": "English",
+    "publisher": "Listening Library (Audio)",
+    "series": null,
+    "pageCount": 350,
+    "coverUrl": "https://covers.openlibrary.org/b/id/12614549-M.jpg",
+    "rating": 3.99,
+    "ratingCount": 108,
+    "genres": [
+      "Classic",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Magic",
+      "Quest",
+      "Space"
+    ],
+    "workKey": "/works/OL28993W"
+  },
+  {
+    "title": "Good Omens",
+    "author": "Terry Pratchett",
+    "year": 1990,
+    "isbn": "5041604827",
+    "description": null,
+    "language": "English",
+    "publisher": "Bertrand Brasil",
+    "series": null,
+    "pageCount": 400,
+    "coverUrl": "https://covers.openlibrary.org/b/id/10482258-M.jpg",
+    "rating": 4.42,
+    "ratingCount": 90,
+    "genres": [
+      "Fantasy"
+    ],
+    "topics": [],
+    "workKey": "/works/OL453936W"
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "year": 2001,
+    "isbn": "9788484316275",
+    "description": null,
+    "language": "English",
+    "publisher": "William Morrow & Company",
+    "series": null,
+    "pageCount": 576,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8494659-M.jpg",
+    "rating": 4.22,
+    "ratingCount": 60,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Mythology",
+      "War"
+    ],
+    "workKey": "/works/OL679360W"
+  },
+  {
+    "title": "Neverwhere",
+    "author": "Neil Gaiman",
+    "year": 1996,
+    "isbn": "9783455023077",
+    "description": null,
+    "language": "English",
+    "publisher": "Laguna",
+    "series": null,
+    "pageCount": 388,
+    "coverUrl": "https://covers.openlibrary.org/b/id/1008998-M.jpg",
+    "rating": 4.11,
+    "ratingCount": 129,
+    "genres": [
+      "Fantasy"
+    ],
+    "topics": [],
+    "workKey": "/works/OL679333W"
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "year": 2001,
+    "isbn": "9780060571528",
+    "description": null,
+    "language": "English",
+    "publisher": "Arena",
+    "series": null,
+    "pageCount": 176,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14171421-M.jpg",
+    "rating": 4.06,
+    "ratingCount": 207,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "topics": [
+      "War"
+    ],
+    "workKey": "/works/OL679358W"
+  },
+  {
+    "title": "Stardust",
+    "author": "Neil Gaiman",
+    "year": 1997,
+    "isbn": "0606192689",
+    "description": null,
+    "language": "English",
+    "publisher": "Roca Editorial",
+    "series": null,
+    "pageCount": 232,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8216379-M.jpg",
+    "rating": 3.91,
+    "ratingCount": 86,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Historical Fiction",
+      "Romance",
+      "Young Adult"
+    ],
+    "topics": [
+      "Love",
+      "Magic",
+      "Quest",
+      "War"
+    ],
+    "workKey": "/works/OL15833328W"
+  },
+  {
+    "title": "The Graveyard Book",
+    "author": "Neil Gaiman",
+    "year": 2008,
+    "isbn": "2226189548",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Children's Books",
+    "series": null,
+    "pageCount": 304,
+    "coverUrl": "https://covers.openlibrary.org/b/id/7099583-M.jpg",
+    "rating": 4.2,
+    "ratingCount": 123,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "topics": [
+      "Death",
+      "Family",
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL679348W"
+  },
+  {
+    "title": "The Colour of Magic",
+    "author": "Terry Pratchett",
+    "year": 1983,
+    "isbn": "0060855924",
+    "description": null,
+    "language": "English",
+    "publisher": "Random House Audio",
+    "series": null,
+    "pageCount": 240,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14647238-M.jpg",
+    "rating": 3.99,
+    "ratingCount": 156,
+    "genres": [
+      "Fantasy"
+    ],
+    "topics": [],
+    "workKey": "/works/OL453657W"
+  },
+  {
+    "title": "Mort",
+    "author": "Terry Pratchett",
+    "year": 1987,
+    "isbn": "9783492280648",
+    "description": null,
+    "language": "English",
+    "publisher": "TALPRESS, spol. s r.o.",
+    "series": null,
+    "pageCount": 297,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14648805-M.jpg",
+    "rating": 4.21,
+    "ratingCount": 132,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "topics": [
+      "Death"
+    ],
+    "workKey": "/works/OL453658W"
+  },
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "year": 2000,
+    "isbn": "9783442366064",
+    "description": null,
+    "language": "English",
+    "publisher": "Roca Editorial",
+    "series": null,
+    "pageCount": 576,
+    "coverUrl": "https://covers.openlibrary.org/b/id/13921600-M.jpg",
+    "rating": 3.78,
+    "ratingCount": 229,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "topics": [
+      "Magic",
+      "War"
+    ],
+    "workKey": "/works/OL5819895W"
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "year": 1939,
+    "isbn": "9780060736330",
+    "description": null,
+    "language": "English",
+    "publisher": "Agatha Christie Ltd",
+    "series": null,
+    "pageCount": 222,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11172296-M.jpg",
+    "rating": 4.25,
+    "ratingCount": 173,
+    "genres": [
+      "Historical Fiction",
+      "Mystery",
+      "Young Adult"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL471565W"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "year": 1933,
+    "isbn": "3442000629",
+    "description": null,
+    "language": "English",
+    "publisher": "Librairie des Champs-Elysses",
+    "series": null,
+    "pageCount": 240,
+    "coverUrl": "https://covers.openlibrary.org/b/id/11100465-M.jpg",
+    "rating": 4.15,
+    "ratingCount": 130,
+    "genres": [
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL471576W"
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "author": "Agatha Christie",
+    "year": 1926,
+    "isbn": "0060593539",
+    "description": null,
+    "language": "English",
+    "publisher": "Editora Globo",
+    "series": null,
+    "pageCount": 256,
+    "coverUrl": "https://covers.openlibrary.org/b/id/13151356-M.jpg",
+    "rating": 4.23,
+    "ratingCount": 83,
+    "genres": [
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL471932W"
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "year": 1937,
+    "isbn": "9788498675801",
+    "description": null,
+    "language": "English",
+    "publisher": "Random House Audio",
+    "series": null,
+    "pageCount": 276,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14066646-M.jpg",
+    "rating": 4.2,
+    "ratingCount": 25,
+    "genres": [
+      "Classic",
+      "Historical Fiction",
+      "Mystery",
+      "Romance"
+    ],
+    "topics": [
+      "Detective",
+      "Family"
+    ],
+    "workKey": "/works/OL471724W"
+  },
+  {
+    "title": "The A.B.C. Murders",
+    "author": "Agatha Christie",
+    "year": 1936,
+    "isbn": "9780613636315",
+    "description": null,
+    "language": "English",
+    "publisher": "HarperCollins Publishers and Blackstone Audio",
+    "series": null,
+    "pageCount": 227,
+    "coverUrl": "https://covers.openlibrary.org/b/id/14573514-M.jpg",
+    "rating": 4.03,
+    "ratingCount": 62,
+    "genres": [
+      "Classic",
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL471509W"
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "year": 1939,
+    "isbn": "8119007093",
+    "description": null,
+    "language": "English",
+    "publisher": "Knopf Doubleday Publishing Group",
+    "series": null,
+    "pageCount": 229,
+    "coverUrl": "https://covers.openlibrary.org/b/id/7268475-M.jpg",
+    "rating": 3.98,
+    "ratingCount": 50,
+    "genres": [
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL15400582W"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "author": "Dashiell Hammett",
+    "year": 1929,
+    "isbn": "8474446112",
+    "description": null,
+    "language": "English",
+    "publisher": "Alianza Editorial",
+    "series": null,
+    "pageCount": 254,
+    "coverUrl": "https://covers.openlibrary.org/b/id/998587-M.jpg",
+    "rating": 3.41,
+    "ratingCount": 32,
+    "genres": [
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL47266W"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "year": 1988,
+    "isbn": "3550100337",
+    "description": null,
+    "language": "English",
+    "publisher": "St Martins Press Inc  (M/M)",
+    "series": null,
+    "pageCount": 352,
+    "coverUrl": "https://covers.openlibrary.org/b/id/8580475-M.jpg",
+    "rating": 4.23,
+    "ratingCount": 52,
+    "genres": [
+      "Mystery"
+    ],
+    "topics": [
+      "Detective"
+    ],
+    "workKey": "/works/OL23481W"
+  }
+]
